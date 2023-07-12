@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot description",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "author": "rukawa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord": "^0.8.2",
+    "discord.js": "^14.11.0",
+    "hot-esm": "^1.6.0",
+    "mootools": "^1.5.2",
+    "rest": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.44.0"
+  }
+}
